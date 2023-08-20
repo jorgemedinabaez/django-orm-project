@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'blogsite',
     'relaciones',
     'migraciones',
+    'crudapp',
 ]
 
 MIDDLEWARE = [
