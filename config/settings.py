@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'relaciones',
     'migraciones',
     'crudapp',
+    'usuario',
     # aplicaciones extra:
     'bootstrap5',
     'crispy_forms',
